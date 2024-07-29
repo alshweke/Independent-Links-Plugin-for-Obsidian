@@ -20,21 +20,21 @@
 
   <div align="center">
 
-  <img src="https://github.com/alshweke/[Independent-Links-Plugin-for-Obsidian](https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_1.png" alt="login"  style="width: 80%; margin: 30px;">
+  <img src="https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_1.png" alt="login"  style="width: 80%; margin: 30px;">
 
   <p><em>1</em></p>
 
   </div>
   <div align="center">
 
-  <img src="https://github.com/alshweke[Independent-Links-Plugin-for-Obsidian](https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_2.png" alt="login"  style="width: 80%; margin: 30px;">
+  <img src="https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_2.png" alt="login"  style="width: 80%; margin: 30px;">
 
   <p><em>2</em></p>
 
   </div>
   <div align="center">
 
-  <img src="https://github.com/alshweke/[Independent-Links-Plugin-for-Obsidian](https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_3.png" alt="login"  style="width: 80%; margin: 30px;">
+  <img src="https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_3.png" alt="login"  style="width: 80%; margin: 30px;">
 
   <p><em>3</em></p>
 
