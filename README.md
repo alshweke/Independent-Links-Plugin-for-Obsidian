@@ -16,16 +16,9 @@
 
 ## Screenshots of the user Interface:
 
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_1.png" alt="login"  style="width: 80%; margin: 30px;">
-  <p><em>1</em></p>
-  </div>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_2.png" alt="login"  style="width: 80%; margin: 30px;">
-  <p><em>2</em></p>
-  </div>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_3.png" alt="login"  style="width: 80%; margin: 30px;">
-  <p><em>3</em></p>
-  </div>
-
+  ![1](https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_1.png)
+  															_1_
+  ![2](https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_2.png)
+  															_2_
+  ![3](https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_3.png)
+															_3_
