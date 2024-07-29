@@ -3,7 +3,7 @@
 
 # Independent Links Plugin 
 
-- **Introduction: ** This is a plugin for [Obsidian](https://obsidian.md/). The Plugin extends Obsidian's functionality to enable users to create multiple sets of links on the same documents and gives them control over these sets and their links. The focus is on keeping link information separate from the documents they are connected to without overwriting the original files; links will only be inserted into the document view as they are displayed. Another main feature of the plugin is to allow users to collaborate by sharing sets of links with each other.
+- **Introduction:** This is a plugin for [Obsidian](https://obsidian.md/). The Plugin extends Obsidian's functionality to enable users to create multiple sets of links on the same documents and gives them control over these sets and their links. The focus is on keeping link information separate from the documents they are connected to without overwriting the original files; links will only be inserted into the document view as they are displayed. Another main feature of the plugin is to allow users to collaborate by sharing sets of links with each other.
   
 
 ## Features
@@ -16,27 +16,16 @@
 
 ## Screenshots of the user Interface:
 
-  
-
   <div align="center">
-
-  <img src="https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_1.png" alt="login"  style="width: 80%; margin: 30px;">
-
+  <img src="https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_1.png" alt="login"  style="width: 80%; margin: 30px;">
   <p><em>1</em></p>
-
   </div>
   <div align="center">
-
-  <img src="https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_2.png" alt="login"  style="width: 80%; margin: 30px;">
-
+  <img src="https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_2.png" alt="login"  style="width: 80%; margin: 30px;">
   <p><em>2</em></p>
-
   </div>
   <div align="center">
-
-  <img src="https://github.com/alshweke/Independent-Links-Plugin-for-Obsidian/blob/main/screenshots/Obsidian_interface_3.png" alt="login"  style="width: 80%; margin: 30px;">
-
+  <img src="https://raw.githubusercontent.com/alshweke/Independent-Links-Plugin-for-Obsidian/main/screenshots/Obsidian_interface_3.png" alt="login"  style="width: 80%; margin: 30px;">
   <p><em>3</em></p>
-
   </div>
 
