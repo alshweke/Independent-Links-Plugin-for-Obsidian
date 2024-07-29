@@ -10,7 +10,7 @@
 
 - **Link sets (web)**: Users can create different link sets on the same documents. These link sets exist simultaneously and users can activate and deactivate these sets at any time. 
 
-- **Linking ability**: Users can create different type of links: Bidirectional Link, Unidirectional Link, External Links, Link to specific section of the document or specific page within pdf document.
+- **Linking ability**: Users can create different types of links: Bidirectional Link, Unidirectional Link, External Links, Link to specific section of the document or specific page within pdf document.
 
 - **User-Friendly Interface**: The user interface is presented as a settings tab within the application’s settings and includes a range of functionalities that users can perform in order to control their links and link sets.
 
